@@ -62,4 +62,4 @@ def isCollision(enemyX, enemyY, bulletX, bulletY):
 running = True
 while running:
     screen.fill((0, 0, 0))
-    screen.blit(background, (0, 0))
+    screen.blit(background, (0,, 0))
